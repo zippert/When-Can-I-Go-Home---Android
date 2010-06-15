@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="programTitle">When can I go home?</string>
+    <string name="header">WhenCanIGoHome?</string>
+    <string name="arrivalText">Arrival:</string>
+    <string name="lunchLabel">Lunch (minutes):</string>
+    <string name="lunchValueDefault">30</string>
+    <string name="goHome">You can go home at </string>
+    <string name="notValidLunch">Not valid lunchtime, resetting...</string>
+    <string name="calculate">Calculate!</string>
+    <string name="implorePressCalculate">Press calculate...</string>
+</resources>
